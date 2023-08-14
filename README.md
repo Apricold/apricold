@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+##About me
+I am a skilled programmer with a strong foundation in data science. My expertise lies in Python, particularly in utilizing libraries such as pandas, numpy, flask, and tensorflow. Committed to constant improvement as an engineer, I am enthusiastic about embracing fresh challenges and opportunities
 <!--
 **Apricold/Apricold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
