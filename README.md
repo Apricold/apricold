@@ -1,16 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Apricold
-================================================================================================================================
-
-Electronic engineer and Programmer
-----------------------------------
-
-I am an electronic engineer with a strong passion for programming. My expertise spans development and data science, and I have actively contributed to diverse projects, including the creation of APIs, web design, web scraping, and the development of machine learning and deep learning models. Python serves as my primary programming language; nevertheless, I am proficient in using various languages such as: C,C++ , javascrip t,Html and CSS , adapting to the specific requirements of each project. Committed to constant improvement as an engineer and enthusiastic about embracing fresh challenges and opportunities
-
-*   🌍  I'm based in Colombia
-*   ✉️  You can contact me at [jhosgri@hotmail.com](mailto:jhosgri@hotmail.com)
-*   🧠  I'm learning react and angular### Skills 
-
-                    </p>
 
 
 
