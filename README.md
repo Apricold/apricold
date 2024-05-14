@@ -14,6 +14,7 @@ Committed to constant improvement as an engineer and enthusiastic about embracin
 *   🌍  I'm based in Colombia
 *   ✉️  You can contact me at [jhosgri@hotmail.com](mailto:jhosgri@hotmail.com)
 *   🧠  I'm learning react and angular
+*   you can view my portfolio <a href="https://jfgl.dev/">jfgl</a>
   
   
   ### Skills 
